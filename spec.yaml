@@ -1,0 +1,3 @@
+name: Discipline Agent
+entrypoint: agent.py
+model: gpt-4o-mini
