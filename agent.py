@@ -1,3 +1,2 @@
-# Discipline Agent - Skeleton
-def agent():
-    return "Discipline Agent initialized."
+def agent(user_message, history):
+    return "Discipline Agent initialized. How can I help you today?"
